@@ -6,16 +6,8 @@ Main assumptions: A distincitive main section with an animated photo slider. A p
 
 Technologies: HTML. CSS (including media queris foe rosponsiveness). JavaScript (slider support and contact form). FontAwsome (social icons). Google Fonts (typography) Hosting - GitHub Page.
 
-Features: Automatic slider of photos in the header. Interactive navigation buttons in the slider. Information section about the artist and her shows. Photo gallery <= ???? Contact form with validation.
+Features: Automatic slider of photos in the header. Interactive navigation buttons in the slider. Information section about the artist and her shows. Photo gallery. Contact form with validation.
 
-How to run the project locally.
 
-Colone the repository:
 
-Go to folder: => cd joanna-kajda-website
 
-Open the .... file in your browser.
-
-Screen shoots:
-
-Contact: If ypu want to contact the artist, use the form on the website or write to:
