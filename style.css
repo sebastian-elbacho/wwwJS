@@ -1,5 +1,5 @@
 :root {
-    /* --colorMain: 100; */
+    
     --header-font-size: 34px;
     --color-bg: #000000;
     --color-text: #fff;  
@@ -19,12 +19,7 @@
     color: var(--color-text);
   } 
   
-  /* html {
-      font-family: Roboto, sans-serif;
-        font-size: 16px; 
-      color: white;
-      background-color: black;
-  } */
+ 
   
   * {
   
@@ -78,8 +73,7 @@
       display: block;
   }
   
-  /* .slider {
-  } */
+  
   
   .hero__text {
       position: absolute;
@@ -93,7 +87,7 @@
       
   }
 
-/* https://www.youtube.com/watch?v=jSCgZqoebsM */
+
 
   .hero-title, .hero-subtitle {
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
