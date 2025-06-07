@@ -9,7 +9,7 @@ function showSlide() {
   sliderTrack.style.transform = `translateX(-${index * 100}%)`;
 }
 
-// Przyciski
+
 btnLeft.addEventListener('click', () => {
   index = (index - 1 + slides.length) % slides.length;
   showSlide();
@@ -20,11 +20,11 @@ btnRight.addEventListener('click', () => {
   showSlide();
 });
 
-// Auto-slide
+
 setInterval(() => {
   index = (index + 1) % slides.length;
   showSlide();
-}, 3000); // co 3 sekundy
+}, 3000); 
 
 
 
