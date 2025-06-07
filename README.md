@@ -1,3 +1,5 @@
+#Joanna Kajda Official/Demo/UCD Assignment (07.06.2025)
+
 Ofiicial website of the artist Joanna Kajda - a fire dancer, performer and art enthusiast. The project aims to present the artis's profile, her performances and to enable contact and booking shows.
 
 The concept: The project is based on a minimalist, elegant design with a strong visual accent.
