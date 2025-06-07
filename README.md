@@ -8,7 +8,7 @@ Technologies: HTML. CSS (including media queris for rosponsiveness). JavaScript 
 
 Features: Automatic slider of photos in the header. Interactive navigation buttons in the slider. Information section about the artist and her shows. Photo gallery. Contact form with validation.
 
-The content of the page is in Polish Language.
+The content of the website is written in Polish Language.
 
 
 
